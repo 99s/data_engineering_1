@@ -3,3 +3,11 @@ create database itversity_retail_db;
 create user itversity_retail_user with encrypted password 'itversity';
 
 grant all on database itversity_retail_db to itversity_retail_user;
+
+
+select count(*) from departments;
+select count(*) from categories;
+select count(*) from products;
+select count(*) from customers;
+select count(*) from orders;
+select count(*) from order_items;
