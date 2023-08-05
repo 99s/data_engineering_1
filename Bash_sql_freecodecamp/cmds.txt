@@ -1,0 +1,44 @@
+echo hello terminal
+pwd
+ls
+cd freeCodeCamp
+pwd
+ls
+cd test
+pwd
+ls
+cd ..
+ls
+more package.json
+clear
+ls
+cd node_modules
+ls
+ls -l
+cd has
+ls
+more README.md
+ls
+more LICENSE-MIT
+clear
+ls
+cd src
+pwd
+ls
+more index.js
+cd ..
+cd ..
+cd ../..
+ls
+clear
+mkdir website
+ls
+cd website
+ls
+echo hello website
+touch index.html
+touch styles.css
+ls
+touch index.js
+touch .gitignore (rm file / rmdir folder removal)
+ls
