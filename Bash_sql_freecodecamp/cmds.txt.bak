@@ -41,3 +41,52 @@ touch styles.css
 ls
 touch index.js
 touch .gitignore (rm file / rmdir folder removal)
+ls
+ls --help
+ls --all
+cd .
+touch background.jpg
+touch header.png
+touch footer.jpeg
+ls
+touch roboto.font
+touch lato.font
+touch menlo.font
+ls
+touch CodeAlly.svg
+touch CodeRoad.svg
+touch freeCodeCamp.svg
+ls
+mkdir images
+ls
+cp background.jpg
+cd images
+ls
+cd ..
+ls
+rm background.jpg
+ls
+cp header.png images
+cp footer.jpeg images
+cd images
+ls
+cd ..
+ls
+rm header.png
+rm footer.jpeg
+ls
+mv roboto.font roboto.woff
+ls
+mv lato.font lato.ttf
+mv menlo.font menlo.otf
+ls
+mkdir fonts
+====================================
+mv roboto.woff fonts
+find
+mkdir client/src
+mv index.html client/src
+find client
+find -name index.html
+find -name images
+mv header.png ..
